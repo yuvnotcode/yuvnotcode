@@ -29,7 +29,5 @@ Writing readable, optimized solutions
 Building consistency (daily practice)
 
 📫 Let’s connect
-
 Open to internships & learning opportunities
-
 Always improving, always learning
