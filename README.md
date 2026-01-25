@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 Hi, I’m Yuvaditya
 
-<!--
-**yuvnotcode/yuvnotcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student
+💻 Java | Data Structures & Algorithms
+🎯 Actively preparing for Software Engineering Internships
 
-Here are some ideas to get you started:
+🚀 What I’m doing
+Solving DSA problems on LeetCode
+Strengthening core Java & problem-solving
+Learning concepts step-by-step with clean code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Skills
+Language: Java
+Core: Arrays, Strings, Basic DSA
+Tools: Git, GitHub
+
+📌 Current Focus
+DSA fundamentals
+Writing readable, optimized solutions
+Building consistency (daily practice)
+
+📫 Let’s connect
+Open to internships & learning opportunities
+Always improving, always learning
