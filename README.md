@@ -28,5 +28,6 @@ I build REST APIs and backend systems with **Java and Spring Boot**, with a focu
 
 ## 📫 Let's Connect
 - Email: yuva8954@gmail.com
-- LinkedIn: [*(https://www.linkedin.com/in/yuvaditya-verma/)*]
+- LinkedIn:*(https://www.linkedin.com/in/yuvaditya-verma/)*
+
 Open to internships and learning opportunities. Always improving, always learning.
