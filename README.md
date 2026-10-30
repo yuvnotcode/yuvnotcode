@@ -1,28 +1,32 @@
-👋 Hi, I’m Yuvaditya
+# Hi, I'm Yuvaditya 👋
 
-🎓 Computer Science student
-💻 Java | Data Structures & Algorithms
-🎯 Actively preparing for Software Engineering Internships
+**Java Backend Developer** | B.Tech CSE (2027) @ ABES Institute of Technology, Ghaziabad
+🎯 Actively looking for a **Java Backend Developer internship**
 
-🚀 What I’m doing:
+---
 
-Solving DSA problems on LeetCode|
-Strengthening core Java & problem-solving|
-Learning concepts step-by-step with clean code
+## 🛠️ What I Build
+I build REST APIs and backend systems with **Java and Spring Boot**, with a focus on clean structure, secure authentication, and well-designed data layers.
 
-🧠 Skills:
+## 🧰 Tech Stack
+- **Language:** Java,Python
+- **Frameworks:** Spring Boot, Spring Security 6, Spring Data JPA, Hibernate ORM,FastAPI
+- **Auth & APIs:** JWT, REST APIs
+- **Databases:** MySQL
+- **Tools:** Git, GitHub
+- **Practice:** Data Structures & Algorithms (LeetCode)
 
-Language: Java|
-Core: Arrays, Strings, Basic DSA|
-Tools: Git, GitHub
+## 🚀 Projects
+- **GymTracker:** Spring Boot backend for tracking workouts
+- **ML-Based Predictive Dynamic Load Balancer:** Final year team project that connects a Spring Boot backend with a Python ML service to route traffic using predictions
 
-📌 Current Focus:
+*(Pinned repositories below 👇)*
 
-DSA fundamentals|
-Writing readable, optimized solutions|
-Building consistency (daily practice)
+## 📌 Currently
+- Building and improving my backend projects
+- Preparing for software engineering internships
 
-📫 Let’s connect:
-
-Open to internships & learning opportunities|
-Always improving, always learning
+## 📫 Let's Connect
+- Email: yuva8954@gmail.com
+- LinkedIn: [*(https://www.linkedin.com/in/yuvaditya-verma/)*]
+Open to internships and learning opportunities. Always improving, always learning.
